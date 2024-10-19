@@ -8,8 +8,8 @@ global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
 global.botname = 'ERROR V1.1 MD' //ur bot name
-global.ownernumber = ['2349125042727'] //ur owner number, dont add more than one
-global.ownername = 'EMMY-HENZ' //ur owner name
+global.ownernumber = ['237673804138'] //ur owner number, dont add more than one
+global.ownername = 'ᏦᎥᏞᏞᎬᏒ ᎶᎻᎾᎦ.gitme//ur owner name
 global.websitex = "https://youtube.com/@EMMYHENZTECHINFO"
 global.wagc = "https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C"
 global.themeemoji = '⛩'
